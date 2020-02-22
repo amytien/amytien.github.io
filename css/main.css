@@ -2321,21 +2321,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -moz-linear-gradient(0deg, #e6dada 0%, #274046 100%);
+  background: -webkit-linear-gradient(0deg, #e6dada 0%, #274046 100%);
+  background: -ms-linear-gradient(0deg, #e6dada 0%, #274046 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -moz-linear-gradient(0deg, #e6dada 0%, #274046 100%);
+  background: -webkit-linear-gradient(0deg, #e6dada 0%, #274046 100%);
+  background: -ms-linear-gradient(0deg, #e6dada 0%, #274046 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .primary-btn {
-  background: #8490ff;
+  background: #274046;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 30px;
