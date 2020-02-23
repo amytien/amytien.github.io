@@ -2335,12 +2335,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background: #c9af98;
+  background: #3a4660;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 30px;
   border: none;
-  color: #fff;
+  color: #c9af98;
   display: inline-block;
   font-weight: 500;
   position: relative;
@@ -2357,7 +2357,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn span {
-  color: #c9af98;
+  color: #3a4660;
   position: absolute;
   top: 50%;
   transform: translateY(-60%);
@@ -2369,41 +2369,41 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn:hover {
-  color: #c9af98;
+  color: #3a4660;
 }
 
 .primary-btn:hover span {
-  color: #c9af98;
+  color: #3a4660;
   right: 20px;
 }
 
 .primary-btn.white {
-  border: 1px solid #c9af98;
-  color: #c9af98;
+  border: 1px solid #3a4660;
+  color: #3a4660;
 }
 
 .primary-btn.white span {
-  color: #c9af98;
+  color: #3a4660;
 }
 
 .primary-btn.white:hover {
-  background: #c9af98;
-  color: #4d6e8f;
+  background: #3a4660;
+  color: #3a4660f;
 }
 
 .primary-btn.white:hover span {
-  color: #4d6e8f;
+  color: #3a4660;
 }
 
 .primary-btn.wh {
-  background: #c9af98;
+  background: #3a4660;
   color: #222;
   text-transform: uppercase;
 }
 
 .primary-btn.wh:hover {
   background: #222;
-  color: #c9af98;
+  color: #3a4660;
 }
 
 .primary-btn.squire {
@@ -2412,9 +2412,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn.squire:hover {
-  border: 1px solid #c9af98;
+  border: 1px solid #3a4660;
   background: transparent;
-  color: #c9af98;
+  color: #3a4660;
 }
 
 .overlay {
