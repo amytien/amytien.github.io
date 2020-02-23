@@ -2590,6 +2590,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+.home-about-area {
+background: #415e8c;
+}
+
 .home-about-right h6 {
   margin-bottom: 30px;
   text-transform: uppercase;
