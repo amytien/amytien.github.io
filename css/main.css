@@ -51,12 +51,12 @@ $black			: #222;
 ::-moz-selection {
   /* Code for Firefox */
   background-color: #edf4f7;
-  color: #fff;
+  color: #3a4660;
 }
 
 ::selection {
   background-color: #edf4f7;
-  color: #fff;
+  color: #3a4660;
 }
 
 ::-webkit-input-placeholder {
