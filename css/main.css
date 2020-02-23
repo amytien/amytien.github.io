@@ -2321,21 +2321,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .banner-left .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
-  background: -moz-linear-gradient(0deg, #F4D2B3 0%, #c9af98 100%);
-  background: -webkit-linear-gradient(0deg, #F4D2B3 0%, #c9af98 100%);
-  background: -ms-linear-gradient(0deg, #F4D2B3 0%, #c9af98 100%);
+  background: -moz-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
+  background: -webkit-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
+  background: -ms-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
 }
 
 .p1-gradient-bg, .home-about-right .secondary-btn {
-  background: -moz-linear-gradient(0deg, #4b6cb7 0%, #3a4660 100%);
-  background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #3a4660 100%);
-  background: -ms-linear-gradient(0deg, #4b6cb7 0%, #3a4660 100%);
+  background: -moz-linear-gradient(0deg, #3A415A 0%, #21273A 100%);
+  background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #21273A 100%);
+  background: -ms-linear-gradient(0deg, #4b6cb7 0%, #21273A 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
-  background: -moz-linear-gradient(0deg, #eacda3 0%, #c9af98 100%);
-  background: -webkit-linear-gradient(0deg, #eacda3 0%, #c9af98 100%);
-  background: -ms-linear-gradient(0deg, #eacda3 0%, #c9af98 100%);
+  background: -moz-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
+  background: -webkit-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
+  background: -ms-linear-gradient(0deg, #CBB29C 0%, #AB896D 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
