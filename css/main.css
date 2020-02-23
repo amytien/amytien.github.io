@@ -2181,7 +2181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li:hover > a {
-  color: #8490ff;
+  color: #4D5480;
 }
 
 .nav-menu ul ul {
@@ -2340,7 +2340,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-left: 30px;
   padding-right: 30px;
   border: none;
-  color: #c9af98;
+  color: #4D5480;
   display: inline-block;
   font-weight: 500;
   position: relative;
