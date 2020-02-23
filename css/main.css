@@ -2327,9 +2327,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .home-about-right .secondary-btn {
-  background: -moz-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
-  background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
-  background: -ms-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
+  background: -moz-linear-gradient(0deg, #4b6cb7 0%, #2C304A 100%);
+  background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #2C304A 100%);
+  background: -ms-linear-gradient(0deg, #4b6cb7 0%, #2C304A 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
@@ -2611,8 +2611,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   max-width: 445px;
 }
 
-.home-about-right .primary-btn:hover {
-  box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.3);
+.home-about-right .secondary-btn:hover {
+  box-shadow: 0px 20px 20px 0px rgba(76, 82, 112, 0.3);
 }
 
 /*-------- End home-about Area ------------*/
