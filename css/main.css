@@ -2145,7 +2145,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 8px 0px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #c9af98;
+  color: #3a4660;
   font-weight: 500;
   font-size: 12px;
   text-transform: uppercase;
@@ -2164,7 +2164,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 22px 0 0 0;
   padding: 10px;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  background: #ed8a63;
+  background: #c9af98;
 }
 
 .nav-menu ul li {
