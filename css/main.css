@@ -2320,10 +2320,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #008000;
 }
 
-.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
+.p1-gradient-bg, .banner-left .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
   background: -moz-linear-gradient(0deg, #eacda3 0%, #d6ae7b 100%);
   background: -webkit-linear-gradient(0deg, #eacda3 0%, #d6ae7b 100%);
   background: -ms-linear-gradient(0deg, #eacda3 0%, #d6ae7b 100%);
+}
+
+.p1-gradient-bg, .home-about-right .primary-btn {
+  background: -moz-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
+  background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
+  background: -ms-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
