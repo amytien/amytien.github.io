@@ -2326,7 +2326,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: -ms-linear-gradient(0deg, #eacda3 0%, #d6ae7b 100%);
 }
 
-.p1-gradient-bg, .home-about-right .primary-btn {
+.p1-gradient-bg, .home-about-right .secondary-btn {
   background: -moz-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
   background: -webkit-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
   background: -ms-linear-gradient(0deg, #4b6cb7 0%, #182848 100%);
